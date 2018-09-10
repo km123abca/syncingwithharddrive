@@ -1,0 +1,1 @@
+copy "C:\Users\Administrator\Downloads\vids\kalisto.txt" "D:\programming\Work_12aug2018FromDesktopPC\copyingfilestoharddisk\templocation\"
